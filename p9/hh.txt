@@ -1,0 +1,10 @@
+ # TEST CASE 5: CHECK-INS AND CHECK-OUTS
+    # 7 floors, 2 rooms per floor. Floors 4, 5 and 6 for VIP clients. Floor 7 for premium clients.
+7;2;4
+
+    # hosted clients
+1:2;PT00112233N;4/4/23
+2:1;AT23452345A;5/4/23
+5:2;JP34127856Z;4/4/23
+6:1;FR87654321B;31/3/23
+7:1;UK13572468C;1/4/23

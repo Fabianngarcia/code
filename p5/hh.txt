@@ -1,0 +1,7 @@
+# 6 plantas , cada una con 9 habitaciones.
+# Las plantas 4 y 5 para clientes VIP, y la planta 6 para clientes premium
+6;9;4
+# habitaciones ocupadas
+1:1;ES56780000X
+6:1;DE50006000A
+1:4;ES40001234B

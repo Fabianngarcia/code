@@ -1,0 +1,5 @@
+# Lista de clientes
+N;ES12345678A;Spain;400;300;210,5
+V;FR87654321B;France;600;4,5
+P;UK13572468C;UK;1000;8,3;5000;395;652,9
+# Fin de la lista
